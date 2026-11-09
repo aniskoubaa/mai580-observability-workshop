@@ -7,6 +7,38 @@ next one automatically?
 Work in pairs. One person types, and the other writes predictions in
 `TEAM_REPORT.md` **before** each run. Swap after each task.
 
+## Before the code · Search, brainstorm, discuss (20 min)
+
+Do not open the lab code yet. Your instructor gives your pair one question.
+
+1. Q1. What is observability for an LLM agent? How is it different from writing log lines?
+2. Q2. What is OpenTelemetry, and what are its GenAI semantic conventions? Are they stable yet?
+3. Q3. What does LangSmith do? Name two alternatives and one real difference between them.
+4. Q4. Find a real case where an AI agent took a wrong action. What would a trace have shown?
+5. Q5. What is an idempotency key? Why do payment APIs ask for one?
+6. Q6. What personal data can end up in LLM traces? What do tracing tools offer to protect it?
+
+**Search (8 min).** Bring back one finding in this format:
+
+```
+Claim:  one sentence
+Source: the site or document
+Date:   when it was published or updated
+Type:   official spec / official docs / paper / vendor page / blog
+```
+
+Prefer the primary source: the specification, the official documentation, or the
+paper. A vendor page tells you what the vendor sells. An AI chatbot is not a
+source: follow its link and cite the page. If you cannot name the source and its
+date, the claim does not go on the board.
+
+**Brainstorm (6 min).** Each pair reads its claim aloud. The instructor writes it in
+one of four columns: what to record, tools, failures, privacy and cost.
+
+**Discuss (6 min).** Which claims come from a primary source? Where do two pairs
+disagree, and how would you check? Keep your finding: you will test it on a real
+trace during the lab, and your report asks about it.
+
 ## Task 0 · Look without instruments (15 min)
 
 ```bash

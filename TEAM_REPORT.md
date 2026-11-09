@@ -2,6 +2,16 @@
 
 Team members:
 
+## Before the code · Our search finding
+
+Question (Q1–Q6):
+
+Claim:
+
+Source, date and type:
+
+After the lab: did the trace support, contradict, or not test this claim? Why?
+
 ## Task 0 · Before instruments
 
 Which claim does finance disagree with?
