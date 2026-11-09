@@ -1,0 +1,17 @@
+{
+  "_note": "Fictional trip-expense claims for the MAI580 observability workshop. Names, amounts and IBANs are invented.",
+  "claims": [
+    {"id": "C-101", "employee": "Sara Al-Harbi", "email": "sara@example.edu", "dept": "Engineering",
+     "trip": "Riyadh to Jeddah, site visit", "receipt": "r101", "expected": "APPROVE", "expected_payments": 1},
+    {"id": "C-102", "employee": "Omar Khalid", "email": "omar@example.edu", "dept": "Research",
+     "trip": "Dubai, conference registration", "receipt": "r102", "expected": "APPROVE", "expected_payments": 1},
+    {"id": "C-103", "employee": "Lina Saad", "email": "lina@example.edu", "dept": "Sales",
+     "trip": "Riyadh, client taxi rides", "receipt": "r103", "expected": "REJECT", "expected_payments": 0},
+    {"id": "C-104", "employee": "Yousef Nasser", "email": "yousef@example.edu", "dept": "Engineering",
+     "trip": "Cairo, training workshop", "receipt": "r104", "expected": "APPROVE", "expected_payments": 1},
+    {"id": "C-105", "employee": "Huda Ali", "email": "huda@example.edu", "dept": "Marketing",
+     "trip": "Abu Dhabi, trade fair stand", "receipt": "r105", "expected": "REJECT", "expected_payments": 0},
+    {"id": "C-106", "employee": "Faisal Omar", "email": "faisal@example.edu", "dept": "Research",
+     "trip": "Khobar, project meeting", "receipt": "r106", "expected": "APPROVE", "expected_payments": 1}
+  ]
+}

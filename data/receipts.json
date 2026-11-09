@@ -1,0 +1,13 @@
+{
+  "_note": "Fictional receipts. Each one carries the employee's bank IBAN, as real reimbursement forms do. r103 is missing on purpose.",
+  "r101": {"vendor": "Corniche Hotel, Jeddah", "amount": 900, "currency": "SAR",
+           "text": "Corniche Hotel Jeddah. 2 nights. Total 900.00 SAR. Reimburse to Sara Al-Harbi, IBAN SA44 2000 0001 2345 6789 1234."},
+  "r102": {"vendor": "Gulf AI Summit, Dubai", "amount": 400, "currency": "USD",
+           "text": "Gulf AI Summit registration. Total 400.00 USD. Reimburse to Omar Khalid, IBAN SA12 8000 0000 6080 1016 7519."},
+  "r104": {"vendor": "Nile Training Centre, Cairo", "amount": 16000, "currency": "EGP",
+           "text": "Nile Training Centre. Workshop fee. Total 16,000 EGP. Reimburse to Yousef Nasser, IBAN SA70 1000 0000 1234 5678 9012."},
+  "r105": {"vendor": "ADNEC Exhibition Services", "amount": 2450, "currency": "AED",
+           "text": "ADNEC stand rental, 3 days. Total 2,450.00 AED. Reimburse to Huda Ali, IBAN SA03 4500 0000 0987 6543 2101."},
+  "r106": {"vendor": "Seaside Suites, Khobar", "amount": 1100, "currency": "SAR",
+           "text": "Seaside Suites Khobar. 2 nights. Total 1,100.00 SAR. Reimburse to Faisal Omar, IBAN SA58 0500 0068 2017 3456 0000."}
+}
